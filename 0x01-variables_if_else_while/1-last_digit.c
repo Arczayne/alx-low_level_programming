@@ -14,10 +14,10 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
-		printf("Last digit of 98 is 8 and is greater than 5\n", n);
+		printf("\n"> 5);
 	else if (n == 0)
 		printf("%d is zero\n", n);
 	else if (n < 0)
-		printf("%d < 6\n", n);
+		printf("%d < 6\n"is negative);
 	return (0);
 }
