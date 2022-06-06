@@ -3,14 +3,11 @@
 #include <stdio.h>
 
 /**
- * Main - main block
- * Description: Get a random number and check its last digit, compare it with 5
+ * main - assigns a random number to int n everytime
+ * it executes, and prints it
  * Return: Always 0 (Success)
  */
 int main(void)
-/**
- * Main - main block
- */
 {
 	int n;
 	int last;
