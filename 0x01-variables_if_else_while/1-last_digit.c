@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * Main - assigns a random numbr to int n everytime
- * it executes, and prints it
+ * Main - main block
+ * Description: Get a random number and check its last digit, compare it with 5
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -24,5 +24,6 @@ int main(void)
 		printf("Last digit of %i is %i and is less than 6 and not 0\n", n
 
 , last);
+	
 	return (0);
 }
