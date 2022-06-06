@@ -8,6 +8,9 @@
  * Return: Always 0 (Success)
  */
 int main(void)
+/**
+ * Main - main block
+ */
 {
 	int n;
 	int last;
