@@ -1,1 +1,4 @@
-int main(void)
+for (ch = á'; ch <= 'h'; ch++)
+{
+putchar(ch);
+}
